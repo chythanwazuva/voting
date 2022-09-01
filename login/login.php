@@ -23,7 +23,7 @@ if (session_status() === PHP_SESSION_NONE) {
         <p id="hd">BlueTech Online voting System</p>
         <p class="remp">Registration time Remaining: <span id="remtime"></span></p>
         <div class="nav">
-            <a href="index.php">Home</a>
+            <a href="index.html">Home</a>
         </div>
     </div>
     <div class="log">
